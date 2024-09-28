@@ -20,14 +20,14 @@ The Efficient Data Stream Anomaly Detection project is designed to detect anomal
  
 
 ## Project Structure
-efficient-data-stream-anomaly-detection 
-├── src # Directory containing the main modules 
-  │ ├── data_stream.py # Data stream generation module
-  │ ├── knn_anomaly_detector.py # KNN-based anomaly detection module 
-  │ ├── visualize.py # Visualization module for the data stream 
-  │ └── main.py # Main script to run the project
-├── Working #snapshort of fianl outcome 
-├── requirements.txt # Python dependencies 
+efficient-data-stream-anomaly-detection
+├── src # Directory containing the main modules
+│   ├── data_stream.py # Data stream generation module
+│   ├── knn_anomaly_detector.py # KNN-based anomaly detection module
+│   ├── visualize.py # Visualization module for the data stream
+│   └── main.py # Main script to run the project
+├── Working # Snapshot of final outcome
+├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
 ## Features
