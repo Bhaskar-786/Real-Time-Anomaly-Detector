@@ -1,6 +1,10 @@
 
 # Efficient Data Stream Anomaly Detection
 
+## Working Demo
+![preview](working/anomalu2.png)
+![preview](working/anomaly.png)
+
 ## Project Overview
 The Efficient Data Stream Anomaly Detection project is designed to detect anomalies in a continuous data stream using Python. The project simulates real-time data sequences and applies a K-Nearest Neighbors (KNN) algorithm to identify unusual patterns, such as spikes or deviations from the norm. The project provides real-time visualization of both the data stream and detected anomalies.
 
@@ -36,7 +40,7 @@ efficient-data-stream-anomaly-detection
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kamal030803/Data-Anomaly-Detector.git
+   git clone https://github.com/Bhaskar-786/Real-Time-Anomaly-Detector
    cd Data-Anomaly-Detector
 
 2. **Set up the environment**:
