@@ -1,5 +1,3 @@
-
-# main.py
 from data_stream import generate_data_stream
 from knn_anomaly_detector import KNNAnomalyDetector
 import matplotlib.pyplot as plt
