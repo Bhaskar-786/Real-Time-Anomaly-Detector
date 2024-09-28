@@ -1,6 +1,6 @@
 import numpy as np
 
-def generate_data_stream(length=1000, seasonal_period=100, noise_level=0.1):
+def generate_data_stream(length=1000, seasonal_period=80, noise_level=0.1):
     """Generates a stream of data with seasonal variations, noise, and occasional spikes to simulate real-world conditions."""
     
     time = np.arange(0, length)
