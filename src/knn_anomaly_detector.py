@@ -3,7 +3,7 @@ from sklearn.neighbors import NearestNeighbors
 from collections import deque
 
 class KNNAnomalyDetector:
-    def __init__(self, window_size=100, n_neighbors=5, threshold_percentile=95):
+    def __init__(self, window_size=1000, n_neighbors=3, threshold_percentile=99):
         self.window_size = window_size
         self.n_neighbors = n_neighbors
         self.threshold_percentile = threshold_percentile
